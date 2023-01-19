@@ -1,0 +1,6 @@
+
+{
+    "mongoURI": "mongodb+srv://mjpdeveloper:mjpdeveloper@cluster0.bz4ib2j.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecret"
+
+}
